@@ -24,3 +24,6 @@ This means that your jailbreak setup has crashed, please restore root fs
 
 # How to restore root fs
 Open unc0ver, settings, tick restore root fs, exit settings click jailbreak. This might take sometime. Try around 4 times for best success
+
+# Bootloop
+Put your device in DFU
