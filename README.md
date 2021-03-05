@@ -3,7 +3,7 @@ A guide for unc0ver on IOS 14
 
 # Before jailbreaking
 
-make a backup
+make a backup on itunes
 
 # Stability
 As u0 is not too stable this is a troubleshooting guide
