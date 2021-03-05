@@ -1,6 +1,10 @@
 # u0-14
 A guide for unc0ver on IOS 14
 
+# Before jailbreaking
+
+make a backup
+
 # Stability
 As u0 is not too stable this is a troubleshooting guide
 
@@ -27,3 +31,7 @@ Open unc0ver, settings, tick restore root fs, exit settings click jailbreak. Thi
 
 # Bootloop
 Put your device in DFU
+
+download a flashing app such as 3utools and download the latest IOS and flash it to your device in DFU mode
+
+**warning:** This may make you unjailbreakable
